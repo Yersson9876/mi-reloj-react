@@ -1,6 +1,20 @@
-# Getting Started with Create React App
+# Selector de hora con reloj en React app
+
+Un componente que muestra un reloj visual cuando el usuario selecciona una hora.
+
+Este es un primer ejercicio para aprender a crear componentes en React.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Características
+- Selector de hora nativo
+- Visualización en formato 12h (AM/PM)
+- Reloj analógico que refleja la hora seleccionada
+
+## Cómo ejecutar
+1. Clona este repositorio
+2. Ejecuta `npm install`
+3. Ejecuta `npm start`
 
 ## Available Scripts
 
